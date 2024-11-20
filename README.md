@@ -12,5 +12,3 @@
 Full Name: Chukwuma Angel
 
 Student Number: 041068750
-
-Static Site Generator: Next.js
